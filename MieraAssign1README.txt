@@ -1,0 +1,20 @@
+Miera McEwen 200466986
+
+General thought process behind my Story Map: 
+    1 - I created the three blue epics at the top to be how users could use the website I created. Or different ways in which they could get groceries delivered. 
+    2 - The yellow notes are order in which the epics would be used (browse, login, add items, checkout, etc)
+    3 - Then from there, I used the white cards to jot down what I would need to get done as a website designer to get these people to use the website efficiently. 
+I tried to think through a users perspective to see how I would want the process to go when getting groceries delivered. 
+
+3 Decisions I made: 
+    1 - Deciding who would be using my webstie (buyer, seller, in person buyer). Sometimes technology is hard to use, and sometimes it is easier to have someone beside you while doing it. That is why I created an in person portion of the ordered. 
+            THis is captured in the results of my map by the blue epics and titles you can see. 
+    2 - Showing prices with tax as you add them to cart. This is important because sometimes people buy groceries based on how much they cost. 
+            This is captured in the resilts of my map by the white card until add items to cart yellow card, and it is to do with estimated time of 21. 
+    3 - There are two places ( in person ordering and selling) where I put a real person could help. This would need a discussion because there would need to be employees and hours payed. 
+            You can see this through annotations I left on these white cards that reads "needs discussion."
+
+Extra feature I tried: 
+    - The extra feature that I tried was adding in personas to the blue epics. This was to show who I was keeping in mind when creating these epics. 
+        For example, the in person delivery, I was thinking of an elderly shopper who maybe does not know how to use technology, but would benefit from delivered groceries. 
+        
